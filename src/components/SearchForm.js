@@ -98,7 +98,7 @@ const SearchForm = ({ onSearch }) => {
 };
 
 export default SearchForm;
-
+// styles 
 const styles = StyleSheet.create({
   card: {
     backgroundColor: "white",
